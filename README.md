@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You can see this project live on the [IPFS](https://ipfs.io/ipfs/QmcMoG4ih9mxkWiwtUowLHHRCyS6cAhkbDiWmgmPV2ftv7).
+
 ## Available Scripts
 
 In the project directory, you can run:
