@@ -1,0 +1,38 @@
+.joke {
+  color: white;
+  font-size: 300%;
+  margin-bottom: 50px;
+
+  cursor: pointer;
+
+  user-select: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.joke:hover {
+  color: red;
+}
+
+.joke-button {
+  border: 5px solid white;
+  font-size: 200%;
+  color: white;
+  padding: 20px;
+
+  cursor: pointer;
+
+  user-select: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+}
+
+.joke-button:hover {
+  background-color: white;
+  color: #0076c4;
+  border: 5px solid #0076c4;
+}
