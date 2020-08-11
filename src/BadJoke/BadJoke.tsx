@@ -2,7 +2,7 @@ import React, {useState} from 'react';
 import axios from 'axios';
 import './BadJoke.css';
 
-function BadJoke(props: any) {
+function BadJoke() {
   const [joke, setJoke] = useState("Click the joke button to find a joke!");
 
   const getJoke = async () => setJoke(await axios.get("https://icanhazdadjoke.com/", {headers: {"Accept": "text/plain"}}).then(res => res.data));
