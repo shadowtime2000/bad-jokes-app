@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/shadowtime2000/bad-jokes-app"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a><br/>
 
-You can see this project live on the [IPFS](https://ipfs.io/ipfs/QmcMoG4ih9mxkWiwtUowLHHRCyS6cAhkbDiWmgmPV2ftv7).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
